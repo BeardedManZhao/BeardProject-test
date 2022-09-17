@@ -7,9 +7,7 @@ package run_zhao;
  */
 public class Hi {
 
-    // 这是一个函数定义，不许写在 main 里面 啪！一尺子
     public static void copy(String[] srcArray, String[] newArray){
-        // 这里你的逻辑是正确的哦！很棒！将每一个数值赋给了新数组，不过再函数中要做的是封装逻辑，下面请看main
         for (int indexNum = 0; indexNum < newArray.length; indexNum ++ ){
             newArray[indexNum] = srcArray[indexNum];
         }
