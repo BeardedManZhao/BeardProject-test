@@ -22,6 +22,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -53,6 +54,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
   <component name="RecentsManager">
@@ -70,7 +72,8 @@
       <updated>1663397882398</updated>
       <workItem from="1663397884640" duration="180000" />
       <workItem from="1663398105382" duration="75000" />
-      <workItem from="1663398225135" duration="307000" />
+      <workItem from="1663398225135" duration="798000" />
+      <workItem from="1663403435737" duration="745000" />
     </task>
     <servers />
   </component>
